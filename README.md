@@ -1,2 +1,2 @@
-# Booking_Project_SF
-ML rating 
+# **PROJECT-3. EDA + Feature Engineering. Соревнование на Kaggle**
+
